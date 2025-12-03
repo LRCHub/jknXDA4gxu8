@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "とりこし苦労",
+  "base_artist": "Sheena Ringo",
+  "createdAt": "2025-12-03T15:45:05.291655Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "とりこし苦労",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/01_とりこし苦労_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "とりこし苦労",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/02_とりこし苦労_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "とりこし苦労",
+      "artist": "Shiina, Ringo",
+      "has_synced": true,
+      "path": "select/03_とりこし苦労_Shiina,_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "とりこし苦労",
+      "artist": "Shiina Ringo",
+      "has_synced": true,
+      "path": "select/04_とりこし苦労_Shiina_Ringo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "とりこし苦労",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_01_とりこし苦労_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "とりこし苦労",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_02_とりこし苦労_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "とりこし苦労",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_03_とりこし苦労_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "とりこし苦労",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_04_とりこし苦労_椎名_林檎.txt"
+    }
+  ]
+}
